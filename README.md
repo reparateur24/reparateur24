@@ -1,16 +1,16 @@
-## Hi there 👋
+### Salut, je suis réparateur24
 
-<!--
-**reparateur24/Reparateur24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur orienté **résolution de bugs**, **logique métier** et **petits outils sur mesure** en JavaScript.
 
-Here are some ideas to get you started:
+#### Ce que je fais
+- **Diagnostic et correction de bugs** : retrouver la vraie cause d'un dysfonctionnement (conditions, types de données, cas limites) plutôt que de poser un correctif à l'aveugle.
+- **Validation des entrées et garde-fous** : sécuriser les calculs et formulaires face aux valeurs vides, textes inattendus ou données hors bornes.
+- **Code lisible et vérifié** : solutions claires, testées sur plusieurs scénarios (cas standard, cas limites, entrées invalides).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Premier projet mis en avant
+- **[calculateur-commande-js](https://github.com/reparateur24/calculateur-commande-js)** — Calcul de total de commande en JavaScript avec gestion des remises, seuil de frais de port, arrondi au centime et garde-fous de validation.
+
+#### Stack & outils
+- **Langages / Web :** JavaScript, HTML / CSS
+- **Outils :** Git, GitHub
+- 
